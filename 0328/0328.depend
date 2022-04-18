@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1648435520 source:c:\algorithm\2week\0328\main.c
+	<stdio.h>
+	<stdlib.h>
+
